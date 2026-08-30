@@ -29,6 +29,8 @@ submission.json
 *.nc
 *.zarr/
 *.zip
+!submission/
+!submission/final_submission.zip
 *.manifest.json
 
 # Logs and operating-system files
