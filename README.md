@@ -1,5 +1,7 @@
 # Sea Wind Phase 2 Code
 
+Repository: <https://github.com/MichaelIbrahim-GaTech/Sea-Wind-Phase-2-Code>
+
 Reproducible Phase 2 solution for the Sea Winds Predictions competition. The
 repository contains exactly two executable Python files:
 
