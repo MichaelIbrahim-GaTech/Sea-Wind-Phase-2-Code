@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Organizer kit and large input data
+official-kit/
+Hackathon-Sea-Winds-Predictions-phase2/
+data/*
+!data/README.md
+
+# Generated artifacts and submissions
+artifacts/
+output/
+predictions.csv
+submission.json
+*.joblib
+*.npz
+*.parquet
+*.nc
+*.zarr/
+*.zip
+*.manifest.json
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
